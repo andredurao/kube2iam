@@ -1,0 +1,4 @@
+#!/bin/sh
+# https://wiki.alpinelinux.org/wiki/Alpine_Linux:FAQ
+# ntpd -d -q -n -p pool.ntp.org
+hwclock -s
